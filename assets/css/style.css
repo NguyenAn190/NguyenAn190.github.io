@@ -843,7 +843,7 @@ p {
 .about_image {
   position: relative; }
   .about_image img {
-    width: 70%; }
+    width: 100%; }
   .about_image .about_shape {
     width: 404px;
     height: 525px;
